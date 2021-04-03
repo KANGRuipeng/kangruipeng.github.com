@@ -5,4 +5,4 @@ Email: rkangaa@connect.ust.hk
 
 
 ###
-[](chip.md)
+[chip](chip.md, ':include :type=md')
